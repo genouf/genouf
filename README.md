@@ -4,8 +4,6 @@
 
 🔭 I’m currently working on ft_transcendence (web app) the last project of 42's common core before my first internship.
 
-[![genouf's 42 stats](https://badge42.vercel.app/api/v2/clfvlw8tp004008l7dc2j98yb/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
-
 ---
 
 ### I’m currently studying : <br>
@@ -27,6 +25,7 @@
 
 
 <!--
+42 BADGE
 **genouf/genouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -2,8 +2,6 @@
 
  I'm a software developer student @42School in Paris.
 
-🔭 I’m currently working on ft_transcendence (web app) the last project of 42's common core before my first internship.
-
 ---
 
 ### I’m currently studying : <br>
@@ -15,7 +13,7 @@
   
   ---
   
-  :envelope: Contact me here (I'm currently looking for a 6 months internship) : genouf@student.42.fr
+  :envelope: Contact me here : genouf@student.42.fr
   
   ---
   <img align="left" alt="genouf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=genouf&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
